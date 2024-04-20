@@ -1,4 +1,4 @@
-CREATE DATABASE gestor_Extintores;
+CREATE DATABASE Gestor_Extintores;
 
 Use gestor_Extintores;
 
